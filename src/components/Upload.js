@@ -9,7 +9,7 @@ class Upload extends Component {
             {
                 cloud_name: 'dyaffqyuj',
                 upload_preset: 'oq0dttfk',
-                tags: ['miniflix'],
+                tags: ['dreflix'],
                 sources: ['local', 'url', 'google_photos', 'facebook', 'image_search']
             },
             function (error, result) {
