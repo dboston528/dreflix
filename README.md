@@ -11,4 +11,4 @@ run this
 `npm install`
 start server `npm start`
 
-### Build your own version
+### [Build your own version](https://scotch.io/tutorials/build-a-mini-netflix-with-react-in-10-minutes)
