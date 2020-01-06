@@ -6,12 +6,18 @@
     "auth0-js": "^9.10.2",
     "axios": "^0.18.0",
     "cloudinary-react": "^1.1.0",
+    "eslint-utils": "^2.0.0",
+    "handlebars": "^4.5.3",
+    "js-yaml": "^3.13.1",
     "jwt-decode": "^2.2.0",
+    "lodash": "^4.17.15",
+    "lodash.template": "^4.5.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-router": "^3.2.1",
     "react-scripts": "2.1.8",
-    "react-twitter-widgets": "^1.7.1"
+    "react-twitter-widgets": "^1.7.1",
+    "serialize-javascript": "^2.1.2"
   },
   "scripts": {
     "start": "react-scripts start",
