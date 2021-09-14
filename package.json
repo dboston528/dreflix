@@ -19,7 +19,7 @@
     "react-scripts": "2.1.8",
     "react-twitter-widgets": "^1.7.1",
     "serialize-javascript": "^2.1.2",
-    "set-value": "^3.0.1"
+    "set-value": "^4.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
